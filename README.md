@@ -1,2 +1,4 @@
 # hello-world
-just get started
+
+I just get started to the coding, and trying to learn how to 
+work out a project
